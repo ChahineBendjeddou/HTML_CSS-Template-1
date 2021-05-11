@@ -1,2 +1,2 @@
-# HTML_CSS-Templet-1
-Web Templet 
+# HTML_CSS-Template-1
+Web Template 
